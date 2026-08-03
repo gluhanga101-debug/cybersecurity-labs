@@ -4,7 +4,7 @@ Hands-on security labs completed alongside graduate coursework in Information Sy
 
 ## About Me
 
-I'm a graduate student completing an MS in Information Systems Security at the University of Denver, currently working as a Security Operations Intern at the DU SOC where I use tools including Stellar Cyber, CrowdStrike Falcon, Proofpoint, and Rapid7 InsightVM day to day. My background is in business and economics, and I approach security from both a technical and analytical perspective.
+I'm a graduate student completing an MS in Information Systems Security at the University of Denver, currently working as a Security Analyst Intern at the DU SOC where I use tools including Stellar Cyber,Cyflare, CrowdStrike Falcon, Proofpoint, and Rapid7 InsightVM day to day. My background is in business and economics, and I approach security from both a technical and analytical perspective.
 
 ## Labs
 
@@ -15,6 +15,7 @@ I'm a graduate student completing an MS in Information Systems Security at the U
 | 01 | [Credential Attack Simulation and Log-Based Detection](./01-credential-attack-detection/) | Brute-force simulation, native log analysis | Nmap, Hydra, Windows Event Viewer, Active Directory |
 | 02 | [Wazuh SIEM Deployment and Agent Integration](./02-wazuh-siem-deployment/) | SIEM setup, agent deployment, CIS compliance | Wazuh 4.7.5, Ubuntu, Windows Server 2022 |
 | 03 | [Encrypted Traffic Analysis](./03-encrypted-traffic-analysis/) | Packet capture, TLS inspection, risk evaluation | Wireshark, Ubuntu, TLS/SNI analysis |
+| 04 | [Active Directory Attack Path Analysis with BloodHound CE](./10-bloodhound-ad-attack-paths/) | Attack path mapping, AD misconfiguration analysis | BloodHound CE, SharpHound, Kali Linux, Windows Server 2022 |
 
 ### ICT-4405 Data Security — University of Denver
 
@@ -26,6 +27,7 @@ I'm a graduate student completing an MS in Information Systems Security at the U
 | 07 | [Dynamic Data Masking](./07-dynamic-data-masking/) | Column-level data masking, privilege bypass | SQL Server 2022, SSMS |
 | 08 | [SQL Injection and Parameterized Queries](./08-sql-injection/) | Attack simulation, defence implementation | SQL Server 2022, SSMS |
 | 09 | [Database Auditing](./09-database-auditing/) | Audit configuration, event capture, compliance | SQL Server 2022, SSMS |
+
 
 ## Certifications and Training
 - ISC2 Certified in Cybersecurity (CC)
