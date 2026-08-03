@@ -66,3 +66,4 @@ The manual chain-building approach (rather than using a pre-seeded lab) meant th
 ## What This Maps To
 - MITRE ATT&CK: T1069 (Permission Groups Discovery), T1484 (Domain Policy Modification), T1078 (Valid Accounts)
 - Real-world relevance: BloodHound paths exist in most production AD environments due to years of accumulated permission drift — the same tool used offensively here is directly applicable to blue-team remediation work
+[View Full Lab Report](./BloodHound Lab Report_Public.docx)
