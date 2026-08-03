@@ -1,6 +1,6 @@
 # 09 — Database Auditing: SQL Server Audit and Login Event Tracking
 
-**Course:** ICT-4405 Data Security — University of Denmark  
+**Course:** ICT-4405 Data Security — University of Denver  
 **Week:** 8
 
 ## Overview
